@@ -45,7 +45,7 @@ pip install pygame
 - **Flecha izquierda**: Mover la pieza hacia la izquierda.
 - **Flecha derecha**: Mover la pieza hacia la derecha.
 - **Flecha abajo**: Acelerar el descenso de la pieza.
-- **Barra espaciadora**: Rotar la pieza.
+- **Flecha arriba**: Rotar la pieza.
 
 ## Estructura del proyecto
 El proyecto tiene la siguiente estructura de archivos:
