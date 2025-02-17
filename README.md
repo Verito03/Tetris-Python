@@ -2,6 +2,8 @@
 
 Este proyecto implementa el popular juego **Tetris** utilizando **Python** y la biblioteca **Pygame**. Fue creado como un proyecto educativo para aprender sobre la programación de videojuegos, manejo de gráficos y lógica en Python.
 
+Este proyecto ha sido creado para la asignatura de **PIM** 
+
 ## Características
 - Gráficos en 2D simples utilizando Pygame.
 - Lógica completa de Tetris, incluyendo rotación de piezas, detección de colisiones y eliminación de líneas.
