@@ -53,7 +53,6 @@ El proyecto tiene la siguiente estructura de archivos:
 Tetris-Python/
 ├── Tetris.py         # Archivo principal del juego
 ├── README.md         # Documentación del proyecto
-└── ...               # Otros scripts o módulos del proyecto
 ```
 
 ## Contribuciones
